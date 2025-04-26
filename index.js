@@ -15,7 +15,7 @@ const client = new Client({
 // Array com os IDs dos usuários a serem monitorados
 const USER_IDS = [
   '874517110678765618',  // ID da Bia
-  '682694935631233203'   // Seu ID
+  '682694935631233203',   // Seu ID
   '996840264855470090'   // PedroLixo
 ];
 
