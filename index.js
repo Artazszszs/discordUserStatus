@@ -16,6 +16,7 @@ const client = new Client({
 const USER_IDS = [
   '874517110678765618',  // ID da Bia
   '682694935631233203'   // Seu ID
+  '996840264855470090'   // PedroLixo
 ];
 
 // Dicionário para armazenar as informações de cada usuário
