@@ -16,6 +16,7 @@ const client = new Client({
 const USER_IDS = [
   '874517110678765618',  // ID da Bia
   '682694935631233203',   // Seu ID
+  '320295547439153153',   // Walk
   '852671600389783583',   // Finish
   '996840264855470090'   // PedroLixo
 ];
