@@ -18,7 +18,8 @@ const USER_IDS = [
   '682694935631233203',   // Seu ID
   '320295547439153153',   // Walk
   '852671600389783583',   // Finish
-  '996840264855470090'   // PedroLixo
+  '996840264855470090',   // PedroLixo
+  '504586268781576202'   // t3uk
 ];
 
 // Dicionário para armazenar as informações de cada usuário
