@@ -357,7 +357,7 @@ function startBot() {
     console.log(`[${new Date().toISOString()}] Bot iniciado como ${client.user.tag}`);
     
     client.user.setStatus('idle');
-    client.user.setActivity('Oii...', { type: ActivityType.Watching });
+    client.user.setActivity('hey there...', { type: ActivityType.Watching });
     
     // Fazer a verificação inicial de todos os usuários
     await updateAllUsersInfo();
